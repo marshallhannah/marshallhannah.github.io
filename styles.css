@@ -58,7 +58,7 @@ h1, h2, h3, h4 {
 }
 
 .hero {
-  background-image: url('/images/main-hero-bg-3.jpg');
+  background-image: url('main-hero-bg-3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
