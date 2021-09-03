@@ -1,0 +1,157 @@
+font-family: 'Montserrat', sans-serif;
+
+font-family: 'Work Sans', sans-serif;
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  background: #fafafa;
+  overflow-x: hidden;
+  color: #393E46;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: b600;
+}
+
+.figure-caption {
+  font-size: 2em;
+  line-height: 2.5em;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  color: #222831;
+}
+
+.btn {
+  padding: 1em 1.8em;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 0.8em;
+  text-decoration: none;
+}
+
+.btn-dark {
+  padding: 1em 1.8em;
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-size: 0.8em;
+  background-color: #005f6b;
+  color: #fafafa;
+  border: none;
+  text-decoration: none;
+}
+
+.top-block-1 {
+  background-color: #00dffc;
+  height: 15px;
+}
+
+.top-block-2 {
+  background-color: #008c9e;
+  height: 15px;
+}
+
+.top-block-3 {
+  background-color: #005f6b;
+  height: 15px;
+}
+
+.hero {
+  background-image: url('/images/main-hero-bg-3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  color: #ffffff;
+  height: 620px;
+}
+
+.hero h1 {
+  font-size: 5rem;
+  font-weight: 600;
+  margin-top: 5rem;
+}
+
+.hero p {
+  font-weight: 300;
+  font-size: 1.3rem;
+}
+
+.card-skills {
+  background-color: #222831;
+  color: #fafafa;
+  padding: 3em 1em;
+}
+
+.card-title {
+  color: #fafafa!important;
+}
+
+.card-2 {
+  background-color: #393e46;
+}
+
+.card-3 {
+  background-color: #626a77;
+}
+
+.about {
+  color: #222831;
+}
+
+.about h2 {
+  font-size: 3em;
+  line-height: 1.6em;
+}
+
+.dark {
+  background-color:#222831;
+  background-image: url('../images/color-logo.png') no-repeat;
+  background-position: left;
+  padding: 3em;
+}
+
+.experience {
+  background-color: #e9f1f2;
+  color: #393E46;
+}
+
+.experience h2 {
+  font-size: 3em;
+  line-height: 1.6em;
+  border-bottom: solid 2px #222831;
+}
+
+.skills {
+  background: rgb(0,140,158);
+  background: linear-gradient(166deg, rgba(0,140,158,1) 45%, rgba(0,95,107,1) 100%); 
+  color: #fafafa;
+}
+
+.skills h2 {
+  font-size: 3em;
+  line-height: 1.6em;
+  border-bottom: solid 2px #fafafa;
+}
+
+.projects {
+  background: rgb(34,40,50);
+  background: linear-gradient(239deg, rgba(34,40,50,1) 30%, rgba(57,62,70,1) 100%); 
+  color: #fafafa;
+}
+
+.projects h2 {
+  font-size: 3em;
+  line-height: 1.6em;
+  border-bottom: solid 2px #fafafa;
+}
+
+.projects a {
+  color: #eaeaea;
+}
+
+.portfolio h2 {
+  font-size: 3em;
+  line-height: 1.6em;
+  border-bottom: solid 2px #222831;
+}
